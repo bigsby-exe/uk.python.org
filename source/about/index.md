@@ -12,8 +12,9 @@ Its current trustees are:
 
 * Owen Campbell
 * Kristian Glass
+* Providence Onyenekwe
 * Becky Smith
-* Daniele Procida
+* Adam Turner
 
 To contact the trustees, please email [trustees@uk.python.org](mailto:trustees@uk.python.org).
 
